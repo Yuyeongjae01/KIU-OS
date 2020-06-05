@@ -22,4 +22,4 @@
 
 <http://www.kiu.ac.kr>
 
-![Cat](./images/코코.jpg)
+![Cat](./git-coco/images/코코.jpg.jpg)
